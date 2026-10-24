@@ -1,6 +1,6 @@
 ### Who Am I? 🤔
 
-I'm a Staff Engineer at [AuthSnap](https://authsnap.ai/) and a Principal Consultant at [Morris Software LLC](https://morrissoftwarellc.com/), operating as a systems architecture, cloud infrastructure, full-stack development, and product execution. Over the course of my career, I have specialized in taking complex distributed systems from early design to resilient production scale—spanning cloud platforms on Azure, high-throughput backend services, secure multi-tenant architectures, modern TypeScript/React interfaces, and automated CI/CD and deployment pipelines.
+I'm a Staff Engineer at [AuthSnap](https://authsnap.ai/) and a Principal Consultant at [Morris Software LLC](https://morrissoftwarellc.com/), operating across systems architecture, cloud infrastructure, full-stack development, and product execution. Over the course of my career, I have specialized in taking complex distributed systems from early design to resilient production scale—spanning cloud platforms on Azure, high-throughput backend services, secure multi-tenant architectures, modern TypeScript/React interfaces, and automated CI/CD and deployment pipelines.
 
 ### What I'm Currently Involved In 🛠️
 
@@ -32,4 +32,4 @@ Across more than a decade of engineering, my work has spanned native mobile deve
 
 - ADA Compliance Standards ♿
   - Established company-wide compliance standards based on WCAG 2.1 criteria across enterprise software suites.
-  - Built automated accessibility auditing into CI pipelines, authored remediation playbooks, and up-skilled individuals to met and exceed accessibility standards.
+  - Built automated accessibility auditing into CI pipelines, authored remediation playbooks, and up-skilled individuals to meet and exceed accessibility standards.
