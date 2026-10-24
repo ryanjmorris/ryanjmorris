@@ -24,10 +24,9 @@ Across more than a decade of engineering, my work has spanned native mobile deve
   - Optimized octahedron projection meshes for 60fps+ mobile VR constraints.
 
 - Internal Streaming Platform 📺
-  - Runs on hardware in-house that was provisioned and networked
-  - Built on [Jellyfin](https://jellyfin.org/)
-  - Manages family library of content big and small
-  - Containerized to provide mobility between vendors when and as needed
+  - Built on [Jellyfin](https://jellyfin.org/) and deployed on dedicated, in-house provisioned and networked hardware.
+  - Manages a multi-terabyte family media library.
+  - Fully containerized to ensure mobility if needed.
 
 - 200+ Themes Built on a Proprietary CMS 🎨
   - Aided in the architecture of the frontend rendering and asset compilation pipeline powering municipal and enterprise web deployments (e.g., [Broken Arrow, OK](https://www.beinba.com/)).
