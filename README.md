@@ -1,4 +1,4 @@
-# Staff Engineer & Principal Consultant
+# I'm Ryan Morris
 
 ### Who Am I? 🤔
 
@@ -15,17 +15,13 @@ Across more than a decade of engineering, my work has spanned native mobile deve
 ### Interesting Projects I've Worked On (Private Repos + Projects) 🌟
 
 - [Distributed Game Hosting](https://games.ryanjmorris.com) 🎮
-  - Platform dedicated to hosting game servers on dedicated hardware that was built in-house
-  - Private platform that is invite only but provides full suite of admin options for managing rented server(s).
-  - Provides users the capabilities to stand up their own servers on:
-    - 64GB of DDR4 RAM, share vCPU cores, and 1TB storage across the stack.
+  - Designed and built a private, self-hosted bare-metal cloud platform for automated game server lifecycle management.
+  - Implemented custom resource scheduling, dynamic container sandboxing, and isolation layers to maintain predictable multi-tenant game server performance without hyperscaler overhead.
    
 - [Virtual Reality](https://www.meta.com/quest/) 🥽
-  - Supported 360 audio spatial support
-  - 360 video + codec support in custom octahedron spheres for full FOV experiences.
-  - Multiplayer networking with Photon
-  - Tailor fit rooms, a frontend built in Angular that communicated with the VR app in real time for edits + updates.
-  - Learned Blender, UV mapping, and more to integrate custom models into the application.
+  - Architected bidirectional Angular-to-VR RPC bridges for real-time room authoring
+  - 360 spatial audio pipelines
+  - Optimized octahedron projection meshes for 60fps+ mobile VR constraints.
 
 - Internal Streaming Platform 📺
   - Runs on hardware in-house that was provisioned and networked
@@ -34,10 +30,9 @@ Across more than a decade of engineering, my work has spanned native mobile deve
   - Containerized to provide mobility between vendors when and as needed
 
 - 200+ Themes Built on a Proprietary CMS 🎨
-  - [Broken Arrow, OK](https://www.beinba.com/) as an example!
-  - Photoshop, Adobe XD, Figma designs to building sites
-  - Custom pipelines such as [Gulp](https://gulpjs.com/), in the early days, to [Webpack](https://webpack.js.org/) to [Vite](https://vite.dev/).
+  - Aided in the architecture of the frontend rendering and asset compilation pipeline powering municipal and enterprise web deployments (e.g., [Broken Arrow, OK](https://www.beinba.com/)).
+  - Led the multi-generation evolution of client build systems (Gulp → Vite), slashing developer build times and standardizing component architectures across 200+ production instances.
 
 - ADA Compliance Standards ♿
-  - Processes built on [ADA 2.1 Compliance](https://www.w3.org/TR/WCAG21/)
-  - Trained a team in, taught them the procees', what to look for, and how to remediate problems.
+  - Established company-wide compliance standards based on WCAG 2.1 criteria across enterprise software suites.
+  - Built automated accessibility auditing into CI pipelines, authored remediation playbooks, and up-skilled individuals to met and exceed accessibility standards.
