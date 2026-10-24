@@ -1,6 +1,6 @@
 ### Who Am I? 🤔
 
-I'm a Staff Engineer at [AuthSnap](https://authsnap.ai/) and a Principal Consultant at [Morris Software LLC](https://morrissoftwarellc.com/), operating across systems architecture, cloud infrastructure, full-stack development, and product execution. Over the course of my career, I have specialized in taking complex distributed systems from early design to resilient production scale—spanning cloud platforms on Azure, high-throughput backend services, secure multi-tenant architectures, modern TypeScript/React interfaces, and automated CI/CD and deployment pipelines.
+I'm a Staff Engineer at [Authsnap](https://authsnap.ai/) and a Principal Consultant at [Morris Software LLC](https://morrissoftwarellc.com/), operating across systems architecture, cloud infrastructure, full-stack development, and product execution. Over the course of my career, I have specialized in taking complex distributed systems from early design to resilient production scale—spanning cloud platforms on Azure, high-throughput backend services, secure multi-tenant architectures, modern TypeScript/React interfaces, and automated CI/CD and deployment pipelines.
 
 ### What I'm Currently Involved In 🛠️
 
